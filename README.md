@@ -1,4 +1,4 @@
-### Hi, I'm Cjyx06 👋<a href="https://github.com/Hesperyx/"><img align="right" src="https://komarev.com/ghpvc/?username=Hesperyx&label=Views"></a>
+### Hi, I'm Cjyx06 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" width="25" /><a href="https://github.com/Hesperyx/"><img align="right" src="https://komarev.com/ghpvc/?username=Hesperyx&label=Views"></a>
 
 <table align="center">
     <tr>
